@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/peerawitdeesamer/Documents/C/Programming.in.th/GCD'
+relocations:
+  - { offset: 0x24FF, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x2233A, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x2639, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_GCD.cpp, symObjAddr: 0x1B8, symBinAddr: 0x100000854, symSize: 0x14 }
+  - { offset: 0x2650, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x17C, symBinAddr: 0x100000818, symSize: 0x3C }
+  - { offset: 0x266E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x38, symBinAddr: 0x1000006D8, symSize: 0x140 }
+  - { offset: 0x26DA, size: 0x8, addend: 0x0, symName: __ZSt3maxIxERKT_S2_S2_, symObjAddr: 0x0, symBinAddr: 0x1000006A0, symSize: 0x38 }
+...

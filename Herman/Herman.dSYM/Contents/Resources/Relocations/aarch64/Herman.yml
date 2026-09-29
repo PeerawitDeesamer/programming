@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/peerawitdeesamer/Documents/C/Programming.in.th/Herman'
+relocations:
+  - { offset: 0x53E1, size: 0x8, addend: 0x0, symName: __ZStL8__ioinit, symObjAddr: 0x2A2B7, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offset: 0x5622, size: 0x8, addend: 0x0, symName: __GLOBAL__sub_I_Herman.cpp, symObjAddr: 0x250, symBinAddr: 0x10000093C, symSize: 0x14 }
+  - { offset: 0x5639, size: 0x8, addend: 0x0, symName: __Z41__static_initialization_and_destruction_0v, symObjAddr: 0x214, symBinAddr: 0x100000900, symSize: 0x3C }
+  - { offset: 0x5657, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x164, symBinAddr: 0x100000854, symSize: 0xAC }
+  - { offset: 0x569C, size: 0x8, addend: 0x0, symName: __ZSt12setprecisioni, symObjAddr: 0x150, symBinAddr: 0x100000840, symSize: 0x14 }
+  - { offset: 0x56C3, size: 0x8, addend: 0x0, symName: __ZSt5fixedRSt8ios_base, symObjAddr: 0x128, symBinAddr: 0x100000818, symSize: 0x28 }
+  - { offset: 0x56FA, size: 0x8, addend: 0x0, symName: __ZNSt8ios_base4setfESt13_Ios_FmtflagsS0_, symObjAddr: 0xC8, symBinAddr: 0x1000007B8, symSize: 0x60 }
+  - { offset: 0x575A, size: 0x8, addend: 0x0, symName: __ZStaNRSt13_Ios_FmtflagsS_, symObjAddr: 0x90, symBinAddr: 0x100000780, symSize: 0x38 }
+  - { offset: 0x5790, size: 0x8, addend: 0x0, symName: __ZStoRRSt13_Ios_FmtflagsS_, symObjAddr: 0x58, symBinAddr: 0x100000748, symSize: 0x38 }
+  - { offset: 0x57C6, size: 0x8, addend: 0x0, symName: __ZStcoSt13_Ios_Fmtflags, symObjAddr: 0x40, symBinAddr: 0x100000730, symSize: 0x18 }
+  - { offset: 0x57ED, size: 0x8, addend: 0x0, symName: __ZStorSt13_Ios_FmtflagsS_, symObjAddr: 0x20, symBinAddr: 0x100000710, symSize: 0x20 }
+  - { offset: 0x5823, size: 0x8, addend: 0x0, symName: __ZStanSt13_Ios_FmtflagsS_, symObjAddr: 0x0, symBinAddr: 0x1000006F0, symSize: 0x20 }
+...
